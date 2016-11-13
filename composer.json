@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"psr-4": {
+			"TransactionManager\\": ["src/"]
+		}
+	},
+    "require": {
+        "goaop/framework": "^2.0",
+		"respect/config": "^2.0"
+    }
+}

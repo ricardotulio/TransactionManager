@@ -1,0 +1,1 @@
+<?php return unserialize('a:1:{i:0;O:44:"TransactionManager\\Annotations\\Transactional":1:{s:5:"value";N;}}');

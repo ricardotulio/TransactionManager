@@ -1,0 +1,1 @@
+<?php return unserialize('a:1:{i:0;O:32:"Go\\Lang\\Annotation\\AfterThrowing":2:{s:5:"order";i:0;s:5:"value";s:56:"@execution(TransactionManager\\Annotations\\Transactional)";}}');
